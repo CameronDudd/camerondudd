@@ -5,12 +5,12 @@
 <h2>Development Stack</h2>
 <h3>Personal</h3>
 <p>
-  <img alt="Void Linux (musl)" src="https://img.shields.io/badge/Void%20Linux%20(musl)-478061?logo=voidlinux&logoColor=fff" />
-  <img alt="Suckless" src="https://img.shields.io/badge/--1177AA?logo=suckless" />
-  <img alt="dwm" src="https://img.shields.io/badge/--1177AA?logo=dwm" />
-  <img alt="st" src="https://badgen.net/badge/icon/st?icon=terminal&label" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" />
+  <a href="https://voidlinux.org/"><img alt="Void Linux (musl)" src="https://img.shields.io/badge/Void%20Linux%20(musl)-478061?logo=voidlinux&logoColor=fff" /></a>
+  <a href="https://suckless.org/"><img alt="Suckless" src="https://img.shields.io/badge/--1177AA?logo=suckless" /></a>
+  <a href="https://dwm.suckless.org/"><img alt="dwm" src="https://img.shields.io/badge/--1177AA?logo=dwm" /></a>
+  <a href="https://st.suckless.org/"><img alt="st" src="https://badgen.net/badge/icon/st?icon=terminal&label" /></a>
+  <a href="https://neovim.io/"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" /></a>
+  <a href="https://github.com/tmux/tmux/wiki"><img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" /></a>
 </p>
 
 <h3>Work</h3>
