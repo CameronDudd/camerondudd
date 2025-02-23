@@ -5,7 +5,7 @@
 <h2>Development Stack</h2>
 <h3>Personal</h3>
 <p>
-  <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" />
+  <img alt="Void Linux (musl)" src="https://img.shields.io/badge/Void%20Linux%20(musl)-478061?logo=voidlinux&logoColor=fff" />
   <img alt="Suckless" src="https://img.shields.io/badge/--1177AA?logo=suckless" />
   <img alt="dwm" src="https://img.shields.io/badge/--1177AA?logo=dwm" />
   <img alt="st" src="https://badgen.net/badge/icon/st?icon=terminal&label" />
