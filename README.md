@@ -29,7 +29,7 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a>
 </p>
-<h3>Have Used</h3>
+<h3>Experience</h3>
 <p>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" /></a>
   <a href="https://www.lua.org/"<img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" /></a>
@@ -46,7 +46,7 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-<h3>Have Used</h3>
+<h3>Experience</h3>
 <p>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -69,6 +69,7 @@
 </p>
 
 <h2>Stats</h2>
-<p>
-  <img alt="Codewars" src="https://www.codewars.com/users/CameronDudd/badges/large" />
-</p>
+
+| Coding | Typing |
+|--------|--------|
+| <p><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondudd&layout=compact" /></a><br><img alt="Codewars" src="https://www.codewars.com/users/CameronDudd/badges/large" /><br><img alt="Dmytro Baida's LeetCode stats dark" src="https://leetcode-badge-sage.vercel.app/badge/camerondudd?theme=dark&bgColor=282828" /></p> | <p><a href="https://data.typeracer.com/pit/profile?user=sigmaimu&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sigmaimu" border="0" alt="TypeRacer.com scorecard for user sigmaimu"/></a><br><a href="https://monkeytype.com/profile/SigmaiMu"><img alt="Monkeytype" src="https://monkeytype.com/images/favicon/apple-touch-icon.png"></a></p> |
