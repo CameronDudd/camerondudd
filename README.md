@@ -15,11 +15,11 @@
 
 <h3>Work</h3>
 <p>
-  <img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
-  <img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" />
-  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" />
+  <a href="https://www.apple.com/uk/macos"><img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" /></a>
+  <a href="https://iterm2.com/"><img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff" /></a>
+  <a href="https://neovim.io/"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" /></a>
+  <a href="https://github.com/tmux/tmux/wiki"><img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" /></a>
+  <a href="https://brew.sh/"><img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" /></a>
 </p>
 
 <h2>Languages</h2>
