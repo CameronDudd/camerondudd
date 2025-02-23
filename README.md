@@ -2,6 +2,26 @@
 
 <p>Thanks for stopping by!<br>I'm Cameron, Software Engineer from 🇬🇧</p>
 
+<h2>Development Stack</h2>
+<h3>Personal</h3>
+<p>
+  <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" />
+  <img alt="Suckless" src="https://img.shields.io/badge/--1177AA?logo=suckless" />
+  <img alt="dwm" src="https://img.shields.io/badge/--1177AA?logo=dwm" />
+  <img alt="st" src="https://badgen.net/badge/icon/st?icon=terminal&label" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
+  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" />
+</p>
+
+<h3>Work</h3>
+<p>
+  <img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+  <img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
+  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" />
+  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" />
+</p>
+
 <h2>Languages</h2>
 <h3>Knowledgable</h3>
 <p>
@@ -16,20 +36,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
-</p>
-
-<h2>Development Stack</h2>
-<h3>Personal</h3>
-<p>
-  <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
-</p>
-
-<h3>Work</h3>
-<p>
-  <img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
-  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" />
 </p>
 
 <h2>Technologies</h2>
